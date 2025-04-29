@@ -1,5 +1,5 @@
 {
-    "name": "qcloudsms/qcloudsms_php",
+    "name": "echolevan/qcloudsms_php",
     "type": "library",
     "description": "qcloud sms php sdk",
     "keywords": ["qcloud", "sms", "php", "sdk"],
